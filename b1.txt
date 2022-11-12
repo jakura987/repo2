@@ -1,6 +1,0 @@
-b1
-<<<<<<< HEAD
-created in master 
-=======
-change in b1 branch
->>>>>>> b1
